@@ -698,3 +698,27 @@ pt-BR:
     creature:
       animal:
         name: ["jacaré", "crocodilo", "alpaca", "formiga", "antílope", "macaco", "tatu", "burro", "babuíno", "texugo", "morcego", "urso", "castor", "abelha", "besouro", "búfalo", "borboleta", "camelo", "búfalo-asiático", "caribu", "gato", "gado", "guepardo", "chimpanzé", "chinchila", "cigarra", "amêijoa", "barata", "bacalhau", "coiote", "caranguejo", "grilo", "corvo", "corvo-comum", "cervo", "dinossauro", "cachorro", "golfinho", "toninha", "pato", "águia", "enguia", "elefante", "alce", "furão", "peixe", "mosca", "raposa", "sapo", "rã" , "gerbilo", "girafa", "mosquito", "gnu", "gnu-cauda-preta", "cabra", "peixe-dourado", "ganso", "gorila", "gafanhoto", "porquinho da índia", "hamster", "lebre", "ouriço", "arenque", "hipopótamo", "vespa", "cavalo", "cão de caça", "hiena", "impala", "chacal", "água-viva", "canguru", "wallaby", "coala", "leopardo", "leão", "lagarto", "lhama", "gafanhoto", "piolho", "arara", "pato selvagem", "mamute", "peixe-boi", "marta", "vison", "vairão", "toupeira", "macaco", "alce", "mosquito", "rato", "ratazana", "mula", "rato almiscarado", "lontra", "boi", "ostra", "panda", "porco", "ornitorrinco", "porco-espinho", "cão da pradaria", "pug", "coelho", "guaxinim", "rena", "rinoceronte", "salmão", "sardinha", "escorpião", "foca", "leão-marinho", "serval", "tubarão", "ovelha", "gambá", "caracol", "cobra", "aranha", "esquilo", "cisne", "cupim", "tigre", "truta", "tartaruga", "jabuti", "morsa", "vespa", "doninha", "baleia", "lobo", "vombate", "marmota", "minhoca", "iaque", "vespa", "zebra"]
+    nation:
+      nationality: ["Afegãos", "Albaneses", "Argelinos", "Americanos", "Andorranos", "Angolanos", "Argentinos", "Armênios", "Aromanianos",
+                    "Arubanos", "Australianos", "Austríacos", "Bahamenses", "Bahrainianos", "Bangladeshis", "Barbadianos", "Bielorrussos",
+                    "Belgas", "Belizeanos", "Bermudenses", "Boers", "Bósnios", "Brasileiros", "Bretões", "Britânicos", "Ilhéus Britânicos",
+                    "Búlgaros", "Macedônios Búlgaros", "Burkinabès", "Burundianos", "Cambojanos", "Camaroneses", "Canadenses", "Catalães",
+                    "Cabo-Verdianos", "Chadianos", "Chilenos", "Chineses", "Colombianos", "Comorianos", "Congolenses", "Croatas", "Cubanos",
+                    "Cipriotas Turcos", "Tchecos", "Dinamarqueses", "Dominicanos (República)", "Dominicanos (Comunidade)", "Holandeses",
+                    "Timorenses", "Equatorianos", "Egípcios", "Emiratenses", "Ingleses", "Eritreus", "Estonianos", "Etíopes", "Feroeses",
+                    "Finlandeses", "Finlândio-Suecos", "Fijianos", "Filipinos", "Cidadãos Franceses", "Georgianos", "Alemães", "Alemães Bálticos",
+                    "Ganenses", "Gibraltarianos", "Gregos", "Macedônios Gregos", "Granadinos", "Guatemaltecos", "Guianenses (Franceses)",
+                    "Guineanos", "Guineenses-Bissauenses", "Guianeses", "Haitianos", "Hondurenhos", "Hong Kong", "Húngaros", "Islandeses",
+                    "Indianos", "Indonésios", "Iranianos (Persas)", "Iraquianos", "Irlandeses", "Israelenses", "Italianos", "Ivoirianos",
+                    "Jamaicanos", "Japoneses", "Jordanianos", "Cazaques", "Quenianos", "Coreanos", "Kosovares Albaneses", "Curdos",
+                    "Kuwaitianos", "Laosianos", "Letões", "Libaneses", "Liberianos", "Líbios", "Liechtensteinenses", "Lituânios",
+                    "Luxemburgueses", "Macedônios", "Malgaxes", "Malaios", "Malauianos", "Maldivianos", "Malineses", "Malteses", "Manx",
+                    "Mauricianos", "Mexicanos", "Moldávios", "Marroquinos", "Mongóis", "Montenegrinos", "Namibianos", "Nepaleses", "Neozelandeses",
+                    "Nicaraguenses", "Nigerinos", "Nigerianos", "Noruegueses", "Paquistaneses", "Palauenses", "Palestinos", "Panamenhos",
+                    "Papuas Novo-Guineenses", "Paraguaios", "Peruanos", "Poloneses", "Portugueses", "Porto-Riquenhos", "Quebecenses",
+                    "Reunionenses", "Romenos", "Russos", "Russos Bálticos", "Ruandeses", "Salvadorenhos", "Santomenses e Príncipe", "Sauditas",
+                    "Escoceses", "Senegaleses", "Sérvios", "Serra-leoneses", "Cingapurianos", "Sindhianos", "Eslovacos", "Eslovenos", "Somali",
+                    "Sul-africanos", "Espanhóis", "Sri-lankenses", "Santa Lucianos", "Sudaneses", "Surinameses", "Suecos", "Suíços", "Sírios",
+                    "Taiwaneses", "Tanzanianos", "Tailandeses", "Tibetanos", "Trinitinos", "Tobagonianos", "Tunisianos", "Turcos", "Tuvaluenses",
+                    "Ugandenses", "Ucranianos", "Uruguaios", "Uzbeques", "Vanuatuenses", "Venezuelanos", "Vietnamitas", "Galeses", "Iemenitas",
+                    "Zambianos", "Zimbabuanos"]
